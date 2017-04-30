@@ -1,0 +1,98 @@
+/*.paginate_button:hover a{
+    color:#000 !important;border:1px solid #cacaca;background-color:#000;}
+
+ul li{
+    padding: 0 !important;
+    background-color: #FF595D !important;
+    border-color: #FF595D !important;
+
+}*/
+
+/*
+body {
+    background-image: url("C:\Users\User\Documents\NetBeansProjects\BillManage\build\web\images\background.png");
+    background-position: bottom right;
+}*/
+
+.sidebarA{
+    color: #5a5a5a;
+    font-size: 1.2em;
+}
+.page-header {
+    margin: 20px 0;
+}
+
+.glyphicon, .fa {
+    font-size: 13px;
+    margin: 0px 10px 0px 5px;
+}
+
+.pinkBtn{
+    background-color: #FF595D; 
+    color: #ffffff; 
+    margin: 5px;
+}
+button:hover{
+    background: #a4a4a4;    
+}
+.headerbutton{
+    background-color: transparent;
+    color: #d8d8d8;
+    border: 0;
+    font-family: Times New Roman;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.headerbutton:hover{
+    color: #ffffff;
+}
+
+.innerShadow{
+    box-shadow: inset 0 0 10px #000000;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+}
+
+.homeform{
+padding: 6px;
+}
+
+.homesubmit{
+background-color: #000000; 
+color: #ffffff;
+border: 0;
+height: 80%; 
+width: 100%;
+min-width: 120px;
+font-size: 1.2em;
+font-family: Times New Roman;
+display: inline-block;
+}
+
+.homesubmit:hover{
+background: #A1A1A1;
+}
+
+.modal-open{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    padding-right: 0 !important;
+}
+
+.modal-vertical-centered {
+  transform: translate(0, 50%) !important;
+  -ms-transform: translate(0, 50%) !important; /* IE 9 */
+  -webkit-transform: translate(0, 50%) !important; /* Safari and Chrome */
+}
+pre{
+    border: 0;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+
+hr{
+    border-top: 1px solid #eee;
+    border-top-color: #a4a4a4;
+}
